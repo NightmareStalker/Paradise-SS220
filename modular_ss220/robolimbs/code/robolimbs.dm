@@ -49,7 +49,7 @@
 /datum/robolimb/cybersun/cybersun_redheavy
 	company = "Cybersun Industries Heavy"
 	icon = 'modular_ss220/robolimbs/icons/cybersun_redheavy.dmi'
-	parts = list("chest","groin", "r_leg", "l_leg", "r_arm", "l_arm")
+	parts = list("chest", "groin", "r_leg", "l_leg", "r_arm", "l_arm")
 	has_subtypes = null
 
 /datum/robolimb/cybersun/cybersun_blacklight
@@ -61,7 +61,7 @@
 /datum/robolimb/cybersun/cybersun_blackheavy
 	company = "Cybersun Industries BlackHeavy"
 	icon = 'modular_ss220/robolimbs/icons/cybersun_blackheavy.dmi'
-	parts = list("chest","groin", "r_leg", "l_leg", "r_arm", "l_arm")
+	parts = list("chest", "groin", "r_leg", "l_leg", "r_arm", "l_arm")
 	has_subtypes = null
 
 /datum/sprite_accessory/body_markings/head/optics/cybersun
@@ -80,7 +80,7 @@
 	icon_state = "two_left"
 
 /datum/sprite_accessory/body_markings/head/optics/cybersun/cyclop
-	name = "Cyclop Optics"
+	name = "Cyclops Optics"
 	icon_state = "cyclops"
 
 /datum/sprite_accessory/body_markings/head/optics/cybersun/sniper
