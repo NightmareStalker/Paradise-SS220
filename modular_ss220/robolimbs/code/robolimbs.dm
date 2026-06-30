@@ -59,7 +59,7 @@
 	has_subtypes = null
 
 /datum/robolimb/cybersun/cybersun_blackheavy
-	company = "Cybersun Industries BlackHeavy"
+	company = "Cybersun Industries Black Heavy"
 	icon = 'modular_ss220/robolimbs/icons/cybersun_blackheavy.dmi'
 	parts = list("chest", "groin", "r_leg", "l_leg", "r_arm", "l_arm")
 	has_subtypes = null
